@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Renato Craveiro 👋
 
-<!--
-**renato-craveiro/renato-craveiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always excited about building cool projects, learning new technologies, and sharing my knowledge with others. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **various web development projects**, including React and Node.js applications.
+- 🌱 I’m constantly learning and exploring **API comunication (HTTP)** and a **CLI** passionate.
+- 💬 I'm still taking the Software Engineering Degree in Application Development
+- ⚡ Fun fact: I'm constantly trying new music tastes.
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies I've worked with:
+
+- **Languages**: JavaScript, C/C++, Java, HTML/CSS
+- **Frameworks/Libraries**: React, Node.js, Express
+- **Databases**: MySQL, SQL/T-SQL
+- **Tools**: Git, GitHub, VSCode, Docker
+- **Cloud**: HomeServer 😬
+
+## 📈 GitHub Stats
+
+![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renato-craveiro&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+
+
+## 📬 Get In Touch
+
+- 🌐 **Website**: [YourWebsite.com](https://yourwebsite.com)
+- ✉️ **Email**: [renato@example.com](mailto:renatoalex.olivcraveiro@gmail.com)
+- 🔗 **LinkedIn**: [Renato Craveiro](https://www.linkedin.com/in/renato-craveiro-796472166)
+
+
+---
+
+Thanks for stopping by! If you'd like to collaborate, just reach out! 🤝
+
