@@ -27,8 +27,8 @@ Here are some of the technologies I've worked with:
 
 ## 📬 Get In Touch
 
-- 🌐 **Website**: [YourWebsite.com](https://yourwebsite.com)
-- ✉️ **Email**: [renato@example.com](mailto:renatoalex.olivcraveiro@gmail.com)
+- 🌐 **Website**: [Linktr.ee]([https://yourwebsite.com](https://linktr.ee/renato_craveiro)
+- ✉️ **Email**: [renatoalex.olivcraveiro@gmail.com](mailto:renatoalex.olivcraveiro@gmail.com)
 - 🔗 **LinkedIn**: [Renato Craveiro](https://www.linkedin.com/in/renato-craveiro-796472166)
 
 
