@@ -27,7 +27,7 @@ Here are some of the technologies I've worked with:
 
 ## 📬 Get In Touch
 
-- 🌐 **Website**: [Linktr.ee]([https://linktr.ee/renato_craveiro](https://linktr.ee/renato_craveiro)
+- 🌐 **Website**: [Linktr.ee]([https://linktr.ee/renato_craveiro](https://linktr.ee/renato_craveiro))
 - ✉️ **Email**: [renatoalex.olivcraveiro@gmail.com](mailto:renatoalex.olivcraveiro@gmail.com)
 - 🔗 **LinkedIn**: [Renato Craveiro](https://www.linkedin.com/in/renato-craveiro-796472166)
 
